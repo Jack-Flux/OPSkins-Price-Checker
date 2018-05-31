@@ -1,0 +1,11 @@
+{
+  "opskins": {
+    "api_key": ""
+  },
+  "discord": {
+    "token": "",
+    "channels": {
+      "notifications": ""
+    }
+  }
+}

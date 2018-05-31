@@ -1,0 +1,24 @@
+{
+  "name": "OPSkins-tradebot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jack-Flux/OPSkins-tradebot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jack-Flux/OPSkins-tradebot/issues"
+  },
+  "homepage": "https://github.com/Jack-Flux/OPSkins-tradebot#readme",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "events": "^2.0.0"
+  }
+}
