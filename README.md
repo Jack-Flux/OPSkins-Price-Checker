@@ -6,6 +6,6 @@
 
 > discord.token: The token assigned to your bot's discord account.
 
-> dsicord.channels.notifications: The ID assigned to the channel you wish for the bot to post notificationbs.
+> discord.channels.notifications: The ID assigned to the channel you wish for the bot to post notificationbs.
 
 ### Run script: 'npm start'
