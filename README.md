@@ -1,4 +1,4 @@
-# OPSkins-tradebot
+# OPSkins-Price-Checker
 
 ## Config.json setup
 
