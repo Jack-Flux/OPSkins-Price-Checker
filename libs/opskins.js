@@ -61,7 +61,7 @@ class OPSkins extends EventEmitter {
     let hold = null;
     let noHold = null;
     itemData.sales.forEach((item) => {
-      if (item.name !== items[i]) {
+      if (item.market_hash_name !== items[i]) {
         return;
       }
       else if (item.flags.trade_locked && (!hold || item.amount < hold)) {
